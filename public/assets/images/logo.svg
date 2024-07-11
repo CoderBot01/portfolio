@@ -1,0 +1,35 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Background -->
+  <rect width="200" height="200" fill="white"/>
+
+  <!-- Mask Shape -->
+  <path d="M100,20
+           Q80,40 70,60
+           Q50,100 30,90
+           Q10,100 20,140
+           Q25,170 50,160
+           Q70,180 80,160
+           Q100,140 120,160
+           Q130,180 150,160
+           Q175,170 180,140
+           Q190,100 170,90
+           Q150,100 130,60
+           Q120,40 100,20Z"
+        fill="#000"
+        stroke="#fff"
+        stroke-width="5"/>
+
+  <!-- Left Eye -->
+  <path d="M55,80
+           Q50,75 55,70
+           Q60,65 65,70
+           Q70,75 65,80Z"
+        fill="white"/>
+
+  <!-- Right Eye -->
+  <path d="M135,80
+           Q130,75 135,70
+           Q140,65 145,70
+           Q150,75 145,80Z"
+        fill="black"/>
+</svg>
